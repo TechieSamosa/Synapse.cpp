@@ -1,0 +1,14 @@
+# Build artifacts
+*.exe
+*.out
+*.o
+*.obj
+
+# VS / CLion
+.vs/
+.idea/
+CMakeCache.txt
+CMakeFiles/
+
+# macOS
+.DS_Store
